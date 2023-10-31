@@ -1,6 +1,6 @@
 //!
 //! termcolor
-//! ~~~~~~~~~
+//! ~~~~~~~~~ 
 //!
 //! termcolor is a header-only c++ library for printing colored messages
 //! to the terminal. Written just for fun with a help of the Force.
