@@ -1,10 +1,4 @@
-/*
- * Name: Vibhav Khare
- * Date: 06/06/23
- * Description: This code is a program that generates and manipulates a 2D landmass grid. It allows the user to specify the dimensions of the grid, drop dirt balls on the landmass, and perform various
- * operations on the landmass data.
- * Usage: g++ -g -Wall Khare_Vibhav_hw3.cpp -o asnn3exe
- */
+//Description: This code is a program that generates and manipulates a 2D landmass grid. It allows the user to specify the dimensions of the grid, drop dirt balls on the landmass, and perform various operations on the landmass data.
 #include <iostream>
 #include <fstream>
 #include <iomanip>
